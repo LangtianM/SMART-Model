@@ -1,2 +1,5 @@
-data/*
+data/*.xlsx
+data/*.csv
+data/*.h5
 data.zip
+data/flow_matrices/
